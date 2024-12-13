@@ -1,15 +1,15 @@
-# Project Title
+# OpenClubManager
 
 ## Overview
 
 ### Purpose
-A brief description of the project's purpose, what it aims to achieve, and the value it provides to the users.  
-**Guidance:** Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
+Sports clubs, are shifting more and more toward a monthly membership model as entrepreuers in the space benefit from having predictable monthly revenue. However, with more customers paying membership, this makes it incredibly difficult and awkward to turn people away if a session reaches capacity.
+The solution to this is to use a bookings system for Members and business owners to make and manage bookings according to the club's timetable. Unfortunately, many of the software solutions for this are extremely expensive and contain a littany of features that small/medium business owners will never use!
+
+The OpenClubManager is an open-source, lightweight bookings and customer management system designed to solve the above issues. OpenClubManager is highly customisable and gives entrenuers or devs the opportunity to create their own system using our app as a starting point. OpenClubManager allows business owners to provide their customers with a hassle-free, well-designed booking system that allows them to book sessions, Manage their membership, manage their data and more, with the option to house more than one participant per user account (e.g a parent who wants to book classes for multiple children) This empowers business owners to track attendance, manage membership options and prices, take payment, create and edit the weekly timetable of classes, cancel sessions, track session capacity and more!
 
 ### Target Audience
-Identify the target audience for your website and explain why this audience will benefit from the project.  
-**Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
-
+This software is intended for use by small to medium business owners and entreprenuers in the Sport, fitness and liesure industry
 ## User Stories
 
 ### Must-Have User Stories
